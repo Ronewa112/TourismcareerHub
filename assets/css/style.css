@@ -23,6 +23,24 @@ h1, .h1, h2, .h2, h3, .h3 {
 h2 {
 	margin: 30px 0;
 }
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.description {
+    color: #e6e6e6;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
 .navbar-toggle {
 	background-color: rgba(0, 0, 0, 0.89);
 }
